@@ -16,3 +16,5 @@ fields:
   config:
     required: true
   default: Untitled page
+pages:
+- foobar.md
