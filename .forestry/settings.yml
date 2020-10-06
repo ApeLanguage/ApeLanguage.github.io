@@ -15,7 +15,6 @@ sections:
 - type: document
   path: _data/docs.yml
   label: Docs Menu
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
