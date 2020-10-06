@@ -7,10 +7,10 @@ description: 'Jekyll Template for Project Websites providing documentation and b
 
 '
 lang: en-US
-url: https://aksakalli.github.io/jekyll-doc-theme
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
-bootwatch: spacelab
+url: https://apelanguage.github.io/
+git_address: https://github.com/ApeLanguage/apelanguage.github.io
+git_edit_address: https://github.com/ApeLanguage/apelanguage.github.io/blob/main
+bootwatch: paper
 markdown: kramdown
 highlighter: rouge
 plugins:
