@@ -30,11 +30,11 @@ sections:
   label: "\U0001F4E6 Data"
   create: all
   match: "**/*"
-upload_dir: assets/uploads
+upload_dir: assets
 public_path: "/assets/uploads"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ":year:/:month:/:day:/:filename:"
+file_template: 'uploads/:year:/:month:/:day:/:filename:'
 build:
   preview_env:
   - JEKYLL_ENV=staging
