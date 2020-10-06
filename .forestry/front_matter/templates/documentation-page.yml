@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: title
+  description: Documentation page title
+  config:
+    required: true
+  default: Untitled documentation page
 - type: text
   name: permalink
   label: permalink
+  default: "/docs/untitled/"
