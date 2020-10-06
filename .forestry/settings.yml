@@ -7,14 +7,14 @@ sections:
 - type: document
   path: _config.yml
   label: "\U0001F6E0 Jekyll Config"
+- type: document
+  path: _data/docs.yml
+  label: "\U0001F4D1 Docs Menu"
 - type: directory
   path: _docs
   label: "\U0001F4DA Docs"
   create: all
   match: "**/*"
-- type: document
-  path: _data/docs.yml
-  label: "\U0001F4D1 Docs Menu"
 - type: jekyll-posts
   label: "✍ Posts"
   create: all
