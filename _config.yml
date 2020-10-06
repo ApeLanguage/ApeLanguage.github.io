@@ -10,7 +10,7 @@ lang: en-US
 url: https://aksakalli.github.io/jekyll-doc-theme
 git_address: https://github.com/aksakalli/jekyll-doc-theme
 git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
-bootwatch: paper
+bootwatch: darkly
 markdown: kramdown
 highlighter: rouge
 plugins:
