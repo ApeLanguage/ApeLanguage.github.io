@@ -3,6 +3,6 @@ title: Installation
 permalink: "/docs/installation/"
 
 ---
-# Installation
+## Installation from Scratch
 
 Lorem ipsum
