@@ -5,9 +5,14 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  config:
+    required: true
+  default: page
 - type: text
   name: title
   label: title
-- type: text
-  name: author
-  label: author
+  description: Page title
+  config:
+    required: true
+  default: Untitled page
