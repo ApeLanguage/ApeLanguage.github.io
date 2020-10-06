@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: document
   path: _config.yml
-  label: Jekyll Config
+  label: "⚙ Jekyll Config"
 - type: directory
   path: _docs
   label: Docs
