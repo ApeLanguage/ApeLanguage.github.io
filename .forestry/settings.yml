@@ -4,27 +4,27 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: directory
-  path: _data
-  label: Data
-  create: documents
-  match: "**/*"
 - type: document
   path: _config.yml
   label: Jekyll Config
-- type: jekyll-pages
-  label: Pages
+- type: directory
+  path: _docs
+  label: Docs
   create: all
-  templates:
-  - page
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
   templates:
   - blog-post
+- type: jekyll-pages
+  label: Pages
+  create: all
+  templates:
+  - page
 - type: directory
-  path: _docs
-  label: Docs
+  path: _data
+  label: Data
   create: all
   match: "**/*"
 upload_dir: assets/uploads
