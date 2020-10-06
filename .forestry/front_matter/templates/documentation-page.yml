@@ -13,3 +13,5 @@ fields:
   name: permalink
   label: permalink
   default: "/docs/untitled/"
+pages:
+- _docs/installation.md
