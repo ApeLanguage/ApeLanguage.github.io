@@ -8,3 +8,5 @@ title: Foobar
 ## Foobar
 
 lorem ipsum
+
+![](/uploads/2020/10/06/chimp1500x500.jpg)
