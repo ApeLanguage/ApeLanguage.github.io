@@ -14,7 +14,6 @@ bootwatch: paper
 markdown: kramdown
 highlighter: rouge
 plugins:
-- jekyll-menus
 - jekyll-feed
 - jekyll-redirect-from
 - jekyll-seo-tag
