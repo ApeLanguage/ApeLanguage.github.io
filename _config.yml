@@ -1,13 +1,10 @@
 ---
 remote_theme: aksakalli/jekyll-doc-theme@gh-pages
-title: Jekyll Doc Theme
+title: APE Language
 email: your-email@domain.com
-description: 'Jekyll Template for Project Websites providing documentation and blog
-  post pages.
-
-'
+description: APE programming language website
 lang: en-US
-url: https://apelanguage.github.io/
+url: https://ape-lang.org/
 git_address: https://github.com/ApeLanguage/apelanguage.github.io
 git_edit_address: https://github.com/ApeLanguage/apelanguage.github.io/blob/main
 bootwatch: paper

@@ -15,3 +15,10 @@ fields:
   default: "/docs/untitled/"
 pages:
 - _docs/installation.md
+- _docs/customization.md
+- _docs/index.md
+- _docs/installation.md
+- _docs/themes.md
+- _docs/examples/bootstrap.md
+- _docs/examples/cheatsheet.md
+- _docs/examples/font-awesome.md
